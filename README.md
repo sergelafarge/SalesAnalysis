@@ -19,7 +19,7 @@ As a data scientist, you must perform the following steps on the enclosed data:
 4.	Report generation
 
 
-1.	Data wrangling
+# Data wrangling
   a.	Ensure that the data is clean and free from any missing or incorrect entries.
     ○	Inspect the data manually to identify missing or incorrect information using the functions isna() and notna().
 
@@ -29,7 +29,7 @@ As a data scientist, you must perform the following steps on the enclosed data:
 
   d.	Share your insights regarding the application of the GroupBy() function for either data chunking or merging, and offer a recommendation based on your analysis.
 
-2.	Data analysis
+# Data analysis
 
   a.	Perform descriptive statistical analysis on the data in the Sales and Unit columns. Utilize techniques such as mean, median, mode, and standard deviation for this analysis.
   
@@ -39,7 +39,7 @@ As a data scientist, you must perform the following steps on the enclosed data:
 
   d.	Generate weekly, monthly, and quarterly reports to document and present the results of the analysis conducted. (Use suitable libraries such as NumPy, Pandas, and SciPy for performing the analysis.)
 
-3.	Data visualization
+# Data visualization
 
   a.	Use suitable data visualization libraries to construct a dashboard for the head of sales and marketing. The dashboard should encompass key parameters:
     o	State-wise sales analysis for different demographic groups (kids, women, men, and seniors).
@@ -51,7 +51,7 @@ As a data scientist, you must perform the following steps on the enclosed data:
   
   c.	Include your recommendation and indicate why you are choosing the recommended visualization package.
 
-4.	Report generation 
+# Report generation 
 
   a)	Use JupyterLab Notebook for generating reports, which includes tasks such as data wrangling, analysis, and visualization. Please note that JupyterLab enables you to integrate code seamlessly with graphs and plots.
 
