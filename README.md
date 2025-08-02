@@ -18,6 +18,7 @@ As a data scientist, you must perform the following steps on the enclosed data:
 3.	Data visualization
 4.	Report generation
 
+
 1.	Data wrangling
   a.	Ensure that the data is clean and free from any missing or incorrect entries.
     ○	Inspect the data manually to identify missing or incorrect information using the functions isna() and notna().
